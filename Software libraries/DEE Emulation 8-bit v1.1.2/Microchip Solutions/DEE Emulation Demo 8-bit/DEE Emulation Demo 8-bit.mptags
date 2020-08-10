@@ -1,0 +1,113 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+DATA_EE_BANKS	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\DEE Emulation Demo 8-bit\NoFilDEE.inc	4;"	d	line:4
+DATA_EE_FLAGS	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	101;"	t	line:101
+DATA_EE_SIZE	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\DEE Emulation Demo 8-bit\NoFilDEE.inc	6;"	d	line:6
+DATA_EE_TOTAL_SIZE::(DATA_EE_BANKS*DATA_EE_SIZE)	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	51;"	d	line:51
+DEE_TBL_PTR::(bank,page)(shortlong)&Emulati	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	104;"	d	line:104	file:
+DEEaddr	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\DEE Emulation Demo 8-bit\main.c	74;"	l	line:74
+DEEdata	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\DEE Emulation Demo 8-bit\main.c	73;"	l	line:73
+DataEEInit	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	547;"	f	line:547	signature:(void)
+DataEEInit	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	113;"	p	line:113	signature:(void)
+DataEERead	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	681;"	f	line:681	signature:(unsigned int addr)
+DataEERead	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	114;"	p	line:114	signature:(unsigned int addr)
+DataEEWrite	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	767;"	f	line:767	signature:(unsigned char data, unsigned int addr)
+DataEEWrite	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	115;"	p	line:115	signature:(unsigned char data, unsigned int addr)
+EMULATION_PAGES_START_ADDRESS	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\DEE Emulation Demo 8-bit\NoFilDEE.inc	2;"	d	line:2
+ERASE	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\DEE Emulation Demo 8-bit\NoFilDEE.inc	11;"	d	line:11
+ERASE_WRITE_CYCLE_MAX	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\DEE Emulation Demo 8-bit\NoFilDEE.inc	7;"	d	line:7
+Emulation_Page	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\NoFilDEE.asm	39;"	v	line:39
+Emulation_PageSCN	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\NoFilDEE.asm	38;"	l	line:38
+ErasePage	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	193;"	f	line:193	signature:(unsigned char bank, unsigned char page)
+ErasePage	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	109;"	p	line:109	signature:(unsigned char bank, unsigned char page)
+GetAddrNotFound::dataEEFlags.addrNotFound	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	62;"	d	line:62
+GetNextAvailCount	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	220;"	f	line:220	signature:(unsigned char bank)
+GetNextAvailCount	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	111;"	p	line:111	signature:(unsigned char bank)
+GetPageCorruptStatus::dataEEFlags.pageCorrupt	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	80;"	d	line:80
+GetPageExpiredPage::dataEEFlags.expiredPage	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	65;"	d	line:65
+GetPageIllegalAddress::dataEEFlags.IllegalAddress	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	77;"	d	line:77
+GetPagePackB4Init::dataEEFlags.packB4Init	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	71;"	d	line:71
+GetPagePackB4PageFull::dataEEFlags.packB4PageFull	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	68;"	d	line:68
+GetPagePackSkipped::dataEEFlags.packSkipped	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	74;"	d	line:74
+GetPageStatus	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	149;"	f	line:149	signature:(unsigned char bank, unsigned char page, unsigned char field)
+GetPageStatus	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	108;"	p	line:108	signature:(unsigned char bank, unsigned char page, unsigned char field)
+GetPageWriteError::dataEEFlags.writeError	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	83;"	d	line:83
+IllegalAddress	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	97;"	m	line:97
+IncEWCount	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	110;"	p	line:110	signature:(unsigned char *index)
+NUMBER_OF_INSTRUCTIONS_IN_PAGE	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\DEE Emulation Demo 8-bit\NoFilDEE.inc	9;"	d	line:9
+NUMBER_OF_INSTRUCTION_IN_ROW	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\DEE Emulation Demo 8-bit\NoFilDEE.inc	8;"	d	line:8
+NUM_DATA_EE_PAGES	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\DEE Emulation Demo 8-bit\NoFilDEE.inc	5;"	d	line:5
+PAGE_AVAILABLE::1	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	52;"	d	line:52
+PAGE_CURRENT::0	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	53;"	d	line:53
+PAGE_EXPIRED::0	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	54;"	d	line:54
+PAGE_NOT_AVAILABLE::0	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	55;"	d	line:55
+PAGE_NOT_CURRENT::1	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	56;"	d	line:56
+PAGE_NOT_EXPIRED::1	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	57;"	d	line:57
+PROGRAM_ROW	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\DEE Emulation Demo 8-bit\NoFilDEE.inc	12;"	d	line:12
+PROGRAM_WORD	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\DEE Emulation Demo 8-bit\NoFilDEE.inc	13;"	d	line:13
+PackEE	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	279;"	f	line:279	signature:(unsigned char bank)
+PackEE	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	112;"	p	line:112	signature:(unsigned char bank)
+STATUS_AVAILABLE::0	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	58;"	d	line:58
+STATUS_CURRENT::1	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	59;"	d	line:59
+STATUS_EXPIRED::2	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	60;"	d	line:60
+SetAddrNotFound::(x)dataEEFlags.addrNotFound=x	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	63;"	d	line:63
+SetPageCorruptStatus::(x)dataEEFlags.pageCorrupt=x	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	81;"	d	line:81
+SetPageExpiredPage::(x)dataEEFlags.expiredPage=x	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	66;"	d	line:66
+SetPageIllegalAddress::(x)dataEEFlags.IllegalAddress=	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	78;"	d	line:78
+SetPagePackB4Init::(x)dataEEFlags.packB4Init=x	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	72;"	d	line:72
+SetPagePackB4PageFull::(x)dataEEFlags.packB4PageFull=	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	69;"	d	line:69
+SetPagePackSkipped::(x)dataEEFlags.packSkipped=x	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	75;"	d	line:75
+SetPageWriteError::(x)dataEEFlags.writeError=x	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	84;"	d	line:84
+UnlockWrite	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	121;"	f	line:121	signature:(void)
+UnlockWrite	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	107;"	p	line:107	signature:(void)
+addrNotFound	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	92;"	m	line:92
+bank	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	554;"	l	line:554
+bank	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	688;"	l	line:688
+bank	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	774;"	l	line:774
+currentPage	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	223;"	l	line:223
+currentPage	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	285;"	l	line:285
+currentPage	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	552;"	l	line:552
+currentPage	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	684;"	l	line:684
+currentPage	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	770;"	l	line:770
+currentPageAddr	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	283;"	l	line:283
+dataEEFlags	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	97;"	v	line:97
+dataEEFlags_sh	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	289;"	l	line:289
+dataEEFlags_sh	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	773;"	l	line:773
+erasePage	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	550;"	l	line:550
+expiredPage	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	93;"	m	line:93
+i	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	222;"	l	line:222
+i	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	281;"	l	line:281
+i	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	683;"	l	line:683
+latch	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	772;"	l	line:772
+latchAddr	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	287;"	l	line:287
+latchAddr	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	686;"	l	line:686
+latchData	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	288;"	l	line:288
+latchData	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	685;"	l	line:685
+main	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\DEE Emulation Demo 8-bit\main.c	70;"	f	line:70	signature:(void)
+nextLoc	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	771;"	l	line:771
+oldGIE	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	123;"	l	line:123
+packB4Init	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	95;"	m	line:95
+packB4PageFull	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	94;"	m	line:94
+packSkipped	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	96;"	m	line:96
+packedPage	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	286;"	l	line:286
+packedPage	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	553;"	l	line:553
+packedPageAddr	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	282;"	l	line:282
+pageCnt	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	549;"	l	line:549
+pageCorrupt	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	98;"	m	line:98
+pageStatus	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	152;"	l	line:152
+savedTBLPTR	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	225;"	l	line:225
+savedTBLPTR	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	284;"	l	line:284
+savedTBLPTR	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	551;"	l	line:551
+savedTBLPTR	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	687;"	l	line:687
+savedTBLPTR	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	769;"	l	line:769
+statusCount	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	291;"	l	line:291
+tempAddr	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\DEE Emulation 8-bit\DEE Emulation 8-bit.c	224;"	l	line:224
+val	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	89;"	m	line:89
+value	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\DEE Emulation Demo 8-bit\main.c	72;"	l	line:72
+writeError	E:\Vl_prj\Solid_fuel_boiler(rev 2_0)\DEE Emulation 8-bit v1.1.2\Microchip Solutions\Microchip\Include\DEE Emulation 8-bit\DEE Emulation 8-bit.h	99;"	m	line:99

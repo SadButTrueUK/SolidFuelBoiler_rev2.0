@@ -1,0 +1,27 @@
+P-CAD Bill of Materials                  D:\Vl_prj\...\sfl_rev_2_0.pcb
+
+======================================================================
+
+Count  ComponentName     RefDes          Value           RefDes2         Title           ComponentHeight 
+------ ---------------   --------------- --------------- --------------- --------------- --------------- 
+
+     6   2EDGV-5.08-02P                   {Value}                         Вилка           12.1                           
+                         XP6                                                                                            
+                                                                                                                     
+                         XP8                                                                                            
+                         XP14                                                                                           
+                                                                                                                    
+                         XP16                                                                                           
+                         XP17                                                                                           
+                         XP18                                                                                           
+                       
+     1   IDC-26MS        XP10                                                              9.1                            
+                                     
+     1   MPW-2           XP19                            {RefDes2}         Вилка           14                             
+     1   MPW-3           XP2                             {RefDes2}         Вилка           14                             
+                                    
+     1   NXW-12          XP1             {Value}         {RefDes2}         Вилка           6.1                            
+                           
+     1   WF-12           XP3                             {RefDes2}                         10.5                           
+     1   WF-20           XP4                             {RefDes2}                         10.5                           
+                                                                                           
